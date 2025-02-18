@@ -4,7 +4,7 @@ A Flask-based web application that performs **sentiment analysis** on text input
 Detects whether the input is **Positive 😊, Neutral 😐, or Negative 😢**.
 
 ## 📷 Screenshot
-![App Screenshot](/images)
+![App Screenshot](/static/ai.png)
 
 ## 🌐 Live Demo
 🔗 [View the app](https://sentiment-analysis-wry5.onrender.com)
