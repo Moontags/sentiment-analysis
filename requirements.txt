@@ -1,0 +1,66 @@
+archspec @ file:///home/conda/feedstock_root/build_artifacts/archspec_1708969572489/work
+autopep8==2.3.1
+black==24.8.0
+blinker==1.9.0
+boltons @ file:///home/conda/feedstock_root/build_artifacts/boltons_1711936407380/work
+Brotli @ file:///Users/runner/miniforge3/conda-bld/brotli-split_1695989934239/work
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1720457958366/work/certifi
+cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1723018415051/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1698833585322/work
+click==8.1.7
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+conda @ file:///Users/runner/miniforge3/conda-bld/conda_1722273216426/work
+conda-libmamba-solver @ file:///home/conda/feedstock_root/build_artifacts/conda-libmamba-solver_1721292473987/work/src
+conda-package-handling @ file:///home/conda/feedstock_root/build_artifacts/conda-package-handling_1717678605937/work
+conda_package_streaming @ file:///home/conda/feedstock_root/build_artifacts/conda-package-streaming_1717678526951/work
+contourpy==1.3.0
+cycler==0.12.1
+distro @ file:///home/conda/feedstock_root/build_artifacts/distro_1704321475663/work
+Flask==3.1.0
+fonttools==4.55.0
+frozendict @ file:///Users/runner/miniforge3/conda-bld/frozendict_1715092790251/work
+gunicorn==23.0.0
+h2 @ file:///home/conda/feedstock_root/build_artifacts/h2_1634280454336/work
+hpack==4.0.0
+hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1619110129307/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1713279365350/work
+importlib_metadata==8.6.1
+importlib_resources==6.4.5
+itsdangerous==2.2.0
+Jinja2==3.1.5
+joblib==1.4.2
+jsonpatch @ file:///home/conda/feedstock_root/build_artifacts/jsonpatch_1695536281965/work
+jsonpointer @ file:///Users/runner/miniforge3/conda-bld/jsonpointer_1718283414380/work
+kiwisolver==1.4.7
+libmambapy @ file:///Users/runner/miniforge3/conda-bld/mamba-split_1711394373090/work/libmambapy
+MarkupSafe==3.0.2
+matplotlib==3.9.2
+menuinst @ file:///Users/runner/miniforge3/conda-bld/menuinst_1718088326989/work
+mypy-extensions==1.0.0
+nltk==3.9.1
+numpy==2.0.2
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1718189413536/work
+pathspec==0.12.1
+pillow==11.0.0
+platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1715777629804/work
+pluggy @ file:///home/conda/feedstock_root/build_artifacts/pluggy_1713667077545/work
+pycodestyle==2.12.1
+pycosat @ file:///Users/runner/miniforge3/conda-bld/pycosat_1696355892939/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1711811537435/work
+pygame==2.6.0
+pyparsing==3.2.0
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+python-dateutil==2.9.0.post0
+regex==2024.11.6
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1717057054362/work
+ruamel.yaml @ file:///Users/runner/miniforge3/conda-bld/ruamel.yaml_1707298177583/work
+ruamel.yaml.clib @ file:///Users/runner/miniforge3/conda-bld/ruamel.yaml.clib_1707314608714/work
+six==1.16.0
+textblob==0.19.0
+tomli==2.0.1
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1722737464726/work
+typing_extensions==4.12.2
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1719391292974/work
+Werkzeug==3.1.3
+zipp==3.21.0
+zstandard==0.22.0
